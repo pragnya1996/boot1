@@ -1,0 +1,65 @@
+# Created on 2018-09-11T11:27:53.161
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2018-09-11T11:27:53.204
+Unexpected IOException with stream: 2018-09-11 11:27:53.202  INFO 9020 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@420a85c4: startup date [Tue Sep 11 11:27:53 IST 2018]; root of context hierarchy
+
+
+# Created on 2018-09-11T11:27:53.371
+Unexpected IOException with stream: 2018-09-11 11:27:53.370  INFO 9020 --- [           main] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+# Created on 2018-09-11T11:27:53.400
+Unexpected IOException with stream: 2018-09-11 11:27:53.399  INFO 9020 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$a3da479d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+
+# Created on 2018-09-11T11:27:53.703
+Unexpected IOException with stream: 
+
+
+# Created on 2018-09-11T11:27:53.704
+Unexpected IOException with stream:   .   ____          _            __ _ _
+
+
+# Created on 2018-09-11T11:27:53.704
+Unexpected IOException with stream:  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+
+
+# Created on 2018-09-11T11:27:53.705
+Unexpected IOException with stream: ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+
+
+# Created on 2018-09-11T11:27:53.706
+Unexpected IOException with stream:  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+
+
+# Created on 2018-09-11T11:27:53.706
+Unexpected IOException with stream:   '  |____| .__|_| |_|_| |_\__, | / / / /
+
+
+# Created on 2018-09-11T11:27:53.708
+Unexpected IOException with stream:  =========|_|==============|___/=/_/_/_/
+
+
+# Created on 2018-09-11T11:27:53.709
+Unexpected IOException with stream:  :: Spring Boot ::        (v2.0.4.RELEASE)
+
+
+# Created on 2018-09-11T11:27:53.710
+Unexpected IOException with stream: 
+
+
+# Created on 2018-09-11T11:27:53.734
+Unexpected IOException with stream: 2018-09-11 11:27:53.731  INFO 9020 --- [           main] c.c.e.EmpproducerApplicationTests        : No active profile set, falling back to default profiles: default
+
+
+# Created on 2018-09-11T11:27:53.740
+Unexpected IOException with stream: 2018-09-11 11:27:53.740  INFO 9020 --- [           main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@58fe0499: startup date [Tue Sep 11 11:27:53 IST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@420a85c4
+
+
